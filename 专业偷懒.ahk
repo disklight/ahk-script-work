@@ -5,6 +5,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ;; !->means [Alt]
 ;; !q means press Alt+q
 ;; if don't use return for the end,it will continue execute
+;; some of them are out of date(just use for one day)
 !w::
 {
 	send Operations.
